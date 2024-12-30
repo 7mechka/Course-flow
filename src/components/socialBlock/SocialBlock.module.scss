@@ -1,0 +1,8 @@
+.root {
+    margin-left: auto;
+    display: flex;
+    gap: 20px;
+    & > svg {
+        cursor: pointer;
+    }
+}
